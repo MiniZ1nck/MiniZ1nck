@@ -3,7 +3,7 @@
 🔭 I’m currently working on something to move us closer to the future 
 🌱 I’m currently learning Python to make my future project a reality
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MiniZ1nck=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?miniz1nck=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MiniZ1nck/MiniZ1nck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
